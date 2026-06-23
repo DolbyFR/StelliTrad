@@ -33,6 +33,8 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
   - ajout d’un **séparateur `|`** entre le range de réputation et le titre (by MrKraken),
   - mise en évidence de l’indication **DIRECT** (by MrKraken), 
   - préfixe **`[!]`** sur les marchandises illégales (by MrKraken).
+  - Indication **`[XP]`** pour les contrats rapportant de l'XP de réputation (by StelliTrad)
+  - Détails de la mission dans la fenêtre des contrats : XP réputation gagnés, type de mission (espace / FPS), etc... (by StelliTrad)
 
 ![Texte alternatif](https://github.com/DolbyFR/SC-FR-remix/blob/3682d350e8b4aa8808748cf6b2c710dc0696139d/images%20readme/1.jpg) ![Texte alternatif](https://github.com/DolbyFR/SC-FR-remix/blob/3682d350e8b4aa8808748cf6b2c710dc0696139d/images%20readme/2.jpg)
 
@@ -42,7 +44,7 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
 
 ### ✔ Normalisation
 - **Type / Taille / Grade** préfixés au nom du composant. (by SCCompanion)  
-- **Catégorie des missiles** (IR / EM / CS) préfixée au nom. (by MrKraken)
+- **Catégorie des missiles** (IR / EM / CS) préfixée au nom. (by StelliTrad)
 
 ---
 
@@ -54,8 +56,8 @@ Compatible avec :
 - **Hauler (TheSpaceCoder)** : https://hauler.thespacecoder.space/
 - **SC Hauling Tools** : https://sc-hauling.tools/
 
-### ✔ Ajustements OCR
-- **Menu des Kiosks de vente repassés en anglais** pour une détection correcte. 
+### ✔ Ajustements OCR (by StelliTrad)
+- **Menu des Kiosks de vente repassés en anglais** pour une détection correcte.
 - **Commodités repassées en anglais** également.
 - **Noms de lieux remis en anglais** dans :
   - les kiosks,
