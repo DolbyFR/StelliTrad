@@ -1,4 +1,4 @@
-# 🇫🇷 StelliTrad - Traduction FR Modifiée – Star Citizen
+# 🇫🇷 Traduction FR Modifiée – Star Citizen
 
 ![Statut](https://img.shields.io/badge/Statut-Actif-blue.svg)
 ![StarCitizen](https://img.shields.io/badge/StarCitizen-Translation-orange.svg)
@@ -7,7 +7,9 @@
 ![Version](https://img.shields.io/badge/Version-1.0.1-lightgrey.svg)
 
 Launcher recommandé :   
-l’excellent et très complet StelliVerse, https://github.com/drrakendu78/TradSC  
+l’excellent et très complet StarTrad FR, https://github.com/drrakendu78/TradSC  
+
+Et également le très polyvalent launcher de SCCompanion, [https://apps.microsoft.com/detail/9pggfwk00f48?hl=fr-FR&gl=FR](https://apps.microsoft.com/detail/9nm0b6bw0133?hl=fr-FR&gl=FR)
 
 ---
 
@@ -77,6 +79,14 @@ Trois versions disponibles :
 ### **1️⃣ Version complète prête à l’emploi**
 Traduction FR modifiée complète, basée sur la traduction de SCCompanion.  
 → À installer directement.
+
+### **2️⃣ Version “customizations.ini” pour StarMeld**
+Compatible avec : https://beltakoda.github.io/StarMeld/  
+Permet de générer un fichier complet avec la traduction de votre choix comme base et ajouter le fichier customizations dans l’onglet Customizer 
+
+### **3️⃣ Fichiers individuels pour StarMeld**
+Toujours via l’onglet *Customizer* :  
+Applique uniquement les/la modification(s) souhaitées.
 
 ---
 
