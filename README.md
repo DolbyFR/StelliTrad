@@ -16,7 +16,7 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
 
 - assurer une compatibilité avec les outils de Data Running utilisant l’OCR, et qui nécessitent certains termes en anglais pour fonctionner (objectif principal de cette traduction).
 - corriger certaines incohérences gênant le gameplay ou les outils tiers.
-- Le tout en conservant les améliorations de l’excellente traduction de SCcompanion et MrKraken.
+- Améliorations diverses
 
 ---
 
@@ -79,14 +79,6 @@ Trois versions disponibles :
 ### **1️⃣ Version complète prête à l’emploi**
 Traduction FR modifiée complète, basée sur la traduction de SCCompanion.  
 → À installer directement.
-
-### **2️⃣ Version “customizations.ini” pour StarMeld**
-Compatible avec : https://beltakoda.github.io/StarMeld/  
-Permet de générer un fichier complet avec la traduction de votre choix comme base et ajouter le fichier customizations dans l’onglet Customizer 
-
-### **3️⃣ Fichiers individuels pour StarMeld**
-Toujours via l’onglet *Customizer* :  
-Applique uniquement les/la modification(s) souhaitées.
 
 ---
 
