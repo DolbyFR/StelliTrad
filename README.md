@@ -1,4 +1,4 @@
-# 🇫🇷 STELLITRAD - Traduction FR SCcompanion Enchanced – Star Citizen
+# 🇫🇷 STELLITRAD - Traduction FR SCCompanion Enchanced – Star Citizen
 
 ![Statut](https://img.shields.io/badge/Statut-Actif-blue.svg)
 ![StarCitizen](https://img.shields.io/badge/StarCitizen-Translation-orange.svg)
