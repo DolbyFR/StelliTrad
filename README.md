@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.1-lightgrey.svg)
 
 Launcher recommandé :   
-l’excellent et très complet StarTrad FR, https://github.com/drrakendu78/TradSC  
+l’excellent et très complet StelliVerse, [https://github.com/drrakendu78/TradSC](https://gitlab.com/drrakendu78/Stelliverse)  
 
 Et également le très polyvalent launcher de SCCompanion, [https://apps.microsoft.com/detail/9pggfwk00f48?hl=fr-FR&gl=FR](https://apps.microsoft.com/detail/9nm0b6bw0133?hl=fr-FR&gl=FR)
 
