@@ -13,14 +13,6 @@ Nous n'assurons pas la traduction du contenu en français. Ce travail de grande 
 
 ---
 
-## 🎯 Objectif du projet
-Ce dépôt propose une **version modifiée de la traduction française de Star Citizen**, basée sur la traduction de **SCCompanion**, puis enrichie pour :
-
-- corriger certaines incohérences gênant le gameplay ou les outils tiers.
-- Améliorations diverses
-
----
-
 ## 📝 Modifications incluse (liste non exhaustive et évolutive)
 
 ---
