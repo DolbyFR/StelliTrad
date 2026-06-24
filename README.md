@@ -3,7 +3,7 @@
 ![Statut](https://img.shields.io/badge/Statut-Actif-blue.svg)
 ![StarCitizen](https://img.shields.io/badge/StarCitizen-Translation-orange.svg)
 ![StarCitizen](https://img.shields.io/badge/SC_Compatible-4.8.1-blue.svg)
-![Version](https://img.shields.io/badge/Version-1.0.1-lightgrey.svg)
+![Version](https://img.shields.io/badge/Version-beta-1.0-lightgrey.svg)
 
 Launcher recommandé :   
 l’excellent et très complet StelliVerse, https://gitlab.com/drrakendu78/Stelliverse
