@@ -9,7 +9,7 @@ Launcher recommandé :
 l’excellent et très complet StelliVerse, https://gitlab.com/drrakendu78/Stelliverse
 
 ![warning](https://img.shields.io/badge/⚠️_WARNING-Avertissement-red?style=for-the-badge)<br>
-Nous n'assurons pas la traduction du contenu en français. Ce travail de grande qualité est réalisé par l'équipe de SC Companion directement.<br>
+Nous n'assurons pas la traduction du contenu en français. Ce travail de grande qualité est réalisé par l'équipe de SCCompanion directement.<br>
 
 ---
 
@@ -42,18 +42,9 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
 ## 🚀 2. Composants de vaisseaux
 
 ### ✔ Normalisation
-- **Type / Taille / Grade** préfixés au nom du composant. (by SCCompanion)  
-- **Catégorie des missiles** (IR / EM / CS) préfixée au nom. (by StelliTrad)
-
----
-
-## 🛠 Installation
-
-versions disponibles :
-
-### **1️⃣ Version complète prête à l’emploi**
-Traduction FR modifiée complète, basée sur la traduction de SCCompanion.  
-→ À installer directement.
+- **Type / Taille / Grade** préfixés au nom du composant. (by SCCompanion, rework by StelliTrad in progress)  
+- **Type des missiles** (IR / EM / CS) préfixée au nom. (by StelliTrad)
+- **Cat des missiles** (S1 / S2, etc...) préfixée au nom. (by StelliTrad)
 
 ---
 
