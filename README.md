@@ -62,5 +62,6 @@ Un grand merci à eux pour leur travail exceptionnel.
 
 ## 🤝 Contributions
 Les suggestions, corrections et améliorations sont les bienvenues sur le discord de Stelliverse.  
+https://discord.stelliverse.fr/
 
 ---
