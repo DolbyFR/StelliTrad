@@ -30,9 +30,9 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
 - Catégorie **Hauling / Fret** :
   - ajout d’un **séparateur `|`** entre le range de réputation et le titre (by StelliTrad),
   - mise en évidence de l’indication **DIRECT** (by MrKraken), 
-  - préfixe **`[!]`** sur les marchandises illégales (by MrKraken).
+  - préfixe **`[!]`** sur les marchandises illégales (by StelliTrad).
   - Indication **`[XP]`** pour les contrats rapportant de l'XP de réputation (by StelliTrad)
-  - Détails de la mission dans la fenêtre des contrats : XP réputation gagnés, type de mission (espace / FPS), etc... (by StelliTrad)
+  - [WIP] Détails de la mission dans la fenêtre des contrats : XP réputation gagnés, type de mission (espace / FPS), etc... (by StelliTrad)
 
 ---
 
@@ -67,7 +67,6 @@ Un grand merci à eux pour leur travail exceptionnel.
 ---
 
 ## 🤝 Contributions
-Les suggestions, corrections et améliorations sont les bienvenues.  
-N’hésitez pas à ouvrir une *issue*.
+Les suggestions, corrections et améliorations sont les bienvenues sur le discord de Stelliverse.  
 
 ---
