@@ -8,6 +8,9 @@
 Launcher recommandé :   
 l’excellent et très complet StelliVerse, https://gitlab.com/drrakendu78/Stelliverse
 
+![warning](https://img.shields.io/badge/⚠️_WARNING-Avertissement-red?style=for-the-badge)<br>
+Nous n'assurons pas la traduction du contenu en français. Ce travail de grande qualité est réalisé par l'équipe de SC Companion directement.<br>
+
 ---
 
 ## 🎯 Objectif du projet
