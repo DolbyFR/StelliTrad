@@ -18,7 +18,7 @@ Ce dépôt propose une **version modifiée de la traduction française de Star C
 
 ---
 
-## 📝 Modifications incluse
+## 📝 Modifications incluse (liste non exhaustive et évolutive)
 
 ---
 
