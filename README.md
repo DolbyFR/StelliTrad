@@ -23,6 +23,7 @@ Nous n'assurons pas la traduction du contenu en français. Ce travail de grande 
 - Indication **`[BP]`** dans le titre des missions disposant d’une récompense en Bonus Pool. (by SCCompanion)
 - **Pool potentiel de BP** ajouté à la fin de la description de chaque mission. (by SCCompanion)
 - Catégorie **Hauling / Fret** :
+  - Indication du niveau de réputation du contrat en début de ligne (by StelliTrad)
   - ajout d’un **séparateur `|`** entre le range de réputation et le titre (by StelliTrad),
   - mise en évidence de l’indication **DIRECT** (by MrKraken), 
   - préfixe **`/!\`** sur les marchandises illégales (by StelliTrad).
@@ -34,7 +35,7 @@ Nous n'assurons pas la traduction du contenu en français. Ce travail de grande 
 ## 🚀 2. Composants de vaisseaux
 
 ### ✔ Normalisation
-- **Type / Taille / Grade** préfixés au nom du composant. (by SCCompanion, rework by StelliTrad in progress)  
+- **Type / Taille / Grade** préfixés au nom du composant ex: [CIV-S3-A]. (by StelliTrad)  
 - **Type des missiles** (IR / EM / CS) préfixée au nom. (by StelliTrad)
 - **Cat des missiles** (S1 / S2, etc...) préfixée au nom. (by StelliTrad)
 
@@ -43,7 +44,7 @@ Nous n'assurons pas la traduction du contenu en français. Ce travail de grande 
 ## 📄 Licence
 Ce projet est distribué sous licence **MIT**, vous êtes libre de l’utiliser, le modifier, le redistribuer ou l’intégrer dans vos propres projets, tant que la licence MIT est incluse.
 
-Ce projet utilise diverses sources qui sont recompilées et adaptées, dont les auteurs reste les propriétaires légitime :
+Ce projet utilise diverses sources qui sont recompilées, adaptées, amélioré, dont les auteurs reste les propriétaires légitime :
 
 - Traduction FR de **SCCompanion** : https://github.com/GerbyTV/SCTMN
 - Modifications issues de **StarStrings** de MrKraken : https://github.com/MrKraken/StarStrings  
